@@ -1,0 +1,3 @@
+C:/Users/UseR/OneDrive/Рабочий стол/Катя ОС/Bandit task/cmake-build-debug/CMakeFiles/Bandit_task.dir
+C:/Users/UseR/OneDrive/Рабочий стол/Катя ОС/Bandit task/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/UseR/OneDrive/Рабочий стол/Катя ОС/Bandit task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
